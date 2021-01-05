@@ -1,0 +1,18 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.Aa1{
+    color: orange;
+}
+.Aa2{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2% ;
+}
+.Aa2 img{
+    width: 100%;
+}
